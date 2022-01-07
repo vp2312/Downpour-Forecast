@@ -1,0 +1,17 @@
+
+body {
+    justify-content: flex-start;
+	background: linear-gradient(#0004, #0004),
+		url(/static/sunny.jpg)
+			no-repeat;
+	background-size: auto;
+	background-position: center;
+	color: #fff;
+    background-color:#5f7b1a;
+    font-family: 'Poppins', sans-serif;
+}
+
+h2{
+    font-size: 2 rem;
+    font-weight: bold;
+}
